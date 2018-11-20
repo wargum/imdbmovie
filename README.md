@@ -1,5 +1,9 @@
-# heritagesites app
+# imdbmovie
 
-The `heritagesites` app is used in SI 664, a University of Michigan, School of Information course,
- to explore both the Django web framework and a MySQL database composed of UNESCO heritage 
- sites linked to UNSD country, area and region codes.
+## This movie website implemented with Django, users can explore movies and actors that they like by reivewing this website. 
+
+## Data set are from IMDB, the Link is:  https://www.imdb.com/interfaces/
+
+## Data model can see here: https://github.com/wargum/imdbmovie/blob/master/static/img/model.png
+
+## Package Dependencies
